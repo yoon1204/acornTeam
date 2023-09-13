@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
- 정훈이의 코드
+ mj
+ 
 </body>
 </html>
