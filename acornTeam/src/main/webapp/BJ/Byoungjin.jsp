@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-병진 코드 꾸벅
+병진 코드
 </body>
 </html>
