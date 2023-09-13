@@ -6,4 +6,7 @@
 <meta charset="EUC-KR">
 <title>Insert title here</title>
 </head>
+<body>
+병진 코드1
+</body>
 </html>
