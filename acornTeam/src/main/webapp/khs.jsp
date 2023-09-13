@@ -6,4 +6,7 @@
 <meta charset="EUC-KR">
 <title>Insert title here</title>
 </head>
+<body>
+김현수 코드의 코드입니다.
+</body>
 </html>
