@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	은경이의 코드
+	eunkyoung's code
 </body>
 </html>
