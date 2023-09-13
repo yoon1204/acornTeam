@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-welcome2 !!!  열심히 코드짜서 올려주세요 ^^
+
+KDY's code o(*^＠^*)o!
 </body>
 </html>
